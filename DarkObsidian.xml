@@ -741,7 +741,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="F3DB2E" bgColor="13181A" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FB0000" bgColor="13181A" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="13181A" fgColor="0080C0" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="FF8040" fgColor="C00000" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="804000" fgColor="C00000" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="13181A" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="81969A" bgColor="23282A" fontName="" fontStyle="0" fontSize="" />
