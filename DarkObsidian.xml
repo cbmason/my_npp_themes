@@ -725,12 +725,12 @@ Notepad++ Custom Style
         </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
             <WordsStyle name="Default" styleID="0" fgColor="E0E2E4" bgColor="13181A" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="Search Header" styleID="1" fgColor="A6ABB3" bgColor="3A4649" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="Search Header" styleID="1" fgColor="80FFFF" bgColor="3A4649" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="File Header" styleID="2" fgColor="78838B" bgColor="2F383C" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="Line Number" styleID="3" fgColor="FFCD22" bgColor="13181A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Hit Word" styleID="4" fgColor="678CB1" bgColor="13181A" fontName="" fontStyle="5" fontSize="" />
             <WordsStyle name="Selected Line" styleID="5" fgColor="FF8409" bgColor="2F393C" fontName="" fontStyle="1" fontSize="">if else for while</WordsStyle>
-            <WordsStyle name="Current line background colour" styleID="6" bgColor="2F393C" fgColor="E0E2E4" fontSize="" fontStyle="0">bool long int char</WordsStyle>
+            <WordsStyle name="Current line background colour" styleID="6" bgColor="1E2695" fgColor="E0E2E4" fontSize="" fontStyle="0">bool long int char</WordsStyle>
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
@@ -756,7 +756,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8A0B0B" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="44116F" fgColor="E0E2E4" fontSize="10" fontStyle="0" />
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="4D5C62" fgColor="E0E2E4" fontStyle="0" />
+        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="0D0D0D" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="93975E" fgColor="FFCAB0" fontStyle="0" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAAA3C" bgColor="8000FF" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="008000" fontStyle="0" />
